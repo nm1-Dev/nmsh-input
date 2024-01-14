@@ -3,7 +3,7 @@
 # My Discord Server
 https://discord.gg/AXEVAqH7yX
 
-![Uploading image.png…]([https://cdn.discordapp.com/attachments/1195409963024142346/1195409963544215643/image.png?ex=65b3e348&is=65a16e48&hm=6e6668fc0202973c29a25a29e835fd48e830e9fbcdb2029e0de6eead72185570&](https://media.discordapp.net/attachments/1126640360664338572/1196101785899761684/image.png?ex=65b66798&is=65a3f298&hm=fa3a236112d6226b4659ad5bb90675b737f41f9fa1e89fd91425aaaedad53ac3&=&format=webp&quality=lossless&width=1202&height=676))
+![Uploading image.png…](https://media.discordapp.net/attachments/1126640360664338572/1196101785899761684/image.png?ex=65b66798&is=65a3f298&hm=fa3a236112d6226b4659ad5bb90675b737f41f9fa1e89fd91425aaaedad53ac3&=&format=webp&quality=lossless&width=1202&height=676)
 ## Example
 
 Here is an example commant which will create a basic form and will print out it's inputs:
